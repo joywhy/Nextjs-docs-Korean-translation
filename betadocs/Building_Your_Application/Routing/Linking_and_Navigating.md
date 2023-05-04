@@ -166,6 +166,6 @@ back and forward navigation(popstate event)는 soft navigation을 합니다.
 
 이 접근성과 사용성 기능의 중요성은 고급 라우팅 패턴이 구현될 때 더욱 분명해질것입니다.
 
-[< Intercepting_Routes ](./Intercepting_Routes.md)
+[< Intercepting_Routes. ](./Intercepting_Routes.md)
 
 [Loading UI>](./Loading_UI.md)
